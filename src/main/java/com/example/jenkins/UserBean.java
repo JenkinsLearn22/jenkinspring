@@ -3,7 +3,7 @@ package com.example.jenkins;
 public class UserBean {
 
     String name;
-    String email = null;
+    String email;
 
     public String getName() {
         return name;
